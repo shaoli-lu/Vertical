@@ -20,17 +20,17 @@ img {
 
 #example3 {
   writing-mode: vertical-rl;
-  max-height: 25vh;
+  max-height: 85vh;
 }
 
 
 #example4 {
   writing-mode: vertical-lr;
-  max-height: 25vh;
+  max-height: 28vh;
 }
 
 #example1,
-#example2 {
+#example2, #exampl4 {
   writing-mode: horizontal-tb;
 }
 
